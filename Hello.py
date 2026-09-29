@@ -1,3 +1,3 @@
-name=input("What is your name")
-print("hello"name)
-print("welcome to my python learning journey")
+print("hello world")
+print("I am learning python")
+print("My first project on github")
